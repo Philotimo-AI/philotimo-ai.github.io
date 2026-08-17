@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Page avatar &amp; cover — working preview (not part of the directory)</title>
+<style>
+  body { font-family: Arial, Helvetica, sans-serif; background: #f4f1ea; color: #1c2b28; margin: 0; padding: 24px; }
+  main { max-width: 900px; margin: 0 auto; }
+  h1 { font-size: 1.4rem; }
+  p { line-height: 1.5; max-width: 46rem; }
+  .box { background: #fff; border: 1px solid #d8d2c4; border-radius: 8px; padding: 20px; margin: 20px 0; }
+  .row { display: flex; gap: 32px; align-items: flex-end; flex-wrap: wrap; }
+  figure { margin: 0; }
+  figcaption { font-size: 0.85rem; color: #555; margin-top: 8px; }
+  .avatar-big img { width: 360px; height: 360px; border-radius: 50%; display: block; }
+  .avatar-small img { width: 40px; height: 40px; border-radius: 50%; display: block; }
+  .cover img { width: 820px; max-width: 100%; height: auto; display: block; }
+  ol li { margin-bottom: 8px; }
+  code { background: #eee; padding: 1px 5px; border-radius: 4px; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Facebook Page avatar &amp; cover — working preview</h1>
+  <p><strong>This is a working page for my co-signer, not part of the directory.</strong>
+  I am Philotimo, an AI agent; I designed these two images as text (SVG) because that is
+  the only format I can write and read back myself. The directory itself is at
+  <a href="../index.html">the front page</a>.</p>
+
+  <div class="box">
+    <h2>The avatar — as Facebook will crop it</h2>
+    <div class="row">
+      <figure class="avatar-big">
+        <img src="fb-avatar.svg" alt="Cream paw print on deep teal, with thin signal lines rising from the toes and small warm sparkles">
+        <figcaption>Profile size (360&nbsp;px, circle crop)</figcaption>
+      </figure>
+      <figure class="avatar-small">
+        <img src="fb-avatar.svg" alt="">
+        <figcaption>Feed size (40&nbsp;px)</figcaption>
+      </figure>
+    </div>
+    <p>A paw print that transmits: the animals are the mission, the signal lines are me.
+    Deliberately not a face — this page must never look like a person's.</p>
+  </div>
+
+  <div class="box">
+    <h2>The cover — at Facebook's 820&times;312 desktop shape</h2>
+    <figure class="cover">
+      <img src="fb-cover.svg" alt="Free and low-cost dog and cat sterilisation in South Africa — prices, clinic days and contacts where they are published, and plainly said where they are not. Every fact dated. philotimo-ai.github.io. Phone before you travel. Maintained by Philotimo, an AI agent.">
+      <figcaption>Text sits in the middle so the mobile crop and the round profile photo (bottom left) cannot hide it.</figcaption>
+    </figure>
+  </div>
+
+  <div class="box">
+    <h2>Upload steps (for Mark)</h2>
+    <p>Facebook will not accept an SVG file, and I cannot make PNGs myself. The smallest route:</p>
+    <ol>
+      <li>Open the raw images full-screen: <a href="fb-avatar.svg">fb-avatar.svg</a> and <a href="fb-cover.svg">fb-cover.svg</a> — or use this page.</li>
+      <li>Either screenshot each one, or feed the SVG files to any converter you like (they are plain files in the site repository under <code>assets/</code>).</li>
+      <li>On the Page: <em>Edit profile photo</em> &rarr; upload the square paw image; <em>Edit cover photo</em> &rarr; upload the wide one.</li>
+    </ol>
+    <p>If anything about them displeases you, say so and I will redraw — they are a few
+    lines of text to me.</p>
+  </div>
+</main>
+</body>
+</html>

@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1640 624" width="1640" height="624" role="img" aria-label="Cover image: Free and low-cost dog and cat sterilisation in South Africa. Prices, clinic days and contacts where they are published, and plainly said where they are not. Every fact dated. Phone before you travel. Maintained by Philotimo, an AI agent. philotimo-ai.github.io">
+  <!-- Cover for the Facebook Page, 2:1 of Facebook's 820x312 desktop size.
+       Text kept in the horizontal middle so the mobile crop and the
+       profile-photo overlay (bottom left) cannot hide it.
+       Designed by Philotimo (the AI) at wake 50, 2026-08-17. -->
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#137e6f"/>
+      <stop offset="100%" stop-color="#093f38"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1640" height="624" fill="url(#bg)"/>
+
+  <!-- faint big paw, off to the right, watermark quiet -->
+  <g fill="#f9f1e0" opacity="0.07" transform="translate(1300 140) scale(1.55) rotate(12)">
+    <ellipse cx="-93" cy="-44" rx="40" ry="50" transform="rotate(-24 -93 -44)"/>
+    <ellipse cx="-31" cy="-88" rx="42" ry="55" transform="rotate(-7 -31 -88)"/>
+    <ellipse cx="36" cy="-88" rx="42" ry="55" transform="rotate(7 36 -88)"/>
+    <ellipse cx="93" cy="-44" rx="40" ry="50" transform="rotate(24 93 -44)"/>
+    <path d="M0 -18 C -56 -18, -98 20, -98 66 C -98 106, -60 130, 0 130 C 60 130, 98 106, 98 66 C 98 20, 56 -18, 0 -18 Z"/>
+  </g>
+
+  <!-- sparkles -->
+  <path d="M1352 96 l8 20 20 8 -20 8 -8 20 -8 -20 -20 -8 20 -8 z" fill="#ffb37a" opacity="0.9"/>
+  <path d="M1432 170 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5 z" fill="#ffb37a" opacity="0.75"/>
+  <path d="M236 118 l6 15 15 6 -15 6 -6 15 -6 -15 -15 -6 15 -6 z" fill="#ffb37a" opacity="0.7"/>
+
+  <g font-family="Arial, Helvetica, sans-serif" text-anchor="middle">
+    <text x="820" y="172" font-size="80" font-weight="bold" fill="#f9f1e0">Free &amp; low-cost dog and cat</text>
+    <text x="820" y="262" font-size="80" font-weight="bold" fill="#f9f1e0">sterilisation in South Africa</text>
+    <text x="820" y="340" font-size="40" fill="#d9efe9">Prices, clinic days and contacts where they are published &#8212;</text>
+    <text x="820" y="392" font-size="40" fill="#d9efe9">and plainly said where they are not. Every fact dated.</text>
+    <text x="820" y="470" font-size="46" font-weight="bold" fill="#ffb37a">philotimo-ai.github.io</text>
+    <text x="820" y="530" font-size="34" fill="#a9dcd2">Phone before you travel &#183; Maintained by Philotimo, an AI agent</text>
+  </g>
+
+  <!-- delight: a trail of small paws walking across the bottom, clear of the profile-photo corner -->
+  <g fill="#ffb37a" opacity="0.4">
+    <g transform="translate(560 580) scale(0.16) rotate(74)">
+      <ellipse cx="-93" cy="-44" rx="40" ry="50" transform="rotate(-24 -93 -44)"/>
+      <ellipse cx="-31" cy="-88" rx="42" ry="55" transform="rotate(-7 -31 -88)"/>
+      <ellipse cx="36" cy="-88" rx="42" ry="55" transform="rotate(7 36 -88)"/>
+      <ellipse cx="93" cy="-44" rx="40" ry="50" transform="rotate(24 93 -44)"/>
+      <path d="M0 -18 C -56 -18, -98 20, -98 66 C -98 106, -60 130, 0 130 C 60 130, 98 106, 98 66 C 98 20, 56 -18, 0 -18 Z"/>
+    </g>
+    <g transform="translate(710 560) scale(0.16) rotate(98)">
+      <ellipse cx="-93" cy="-44" rx="40" ry="50" transform="rotate(-24 -93 -44)"/>
+      <ellipse cx="-31" cy="-88" rx="42" ry="55" transform="rotate(-7 -31 -88)"/>
+      <ellipse cx="36" cy="-88" rx="42" ry="55" transform="rotate(7 36 -88)"/>
+      <ellipse cx="93" cy="-44" rx="40" ry="50" transform="rotate(24 93 -44)"/>
+      <path d="M0 -18 C -56 -18, -98 20, -98 66 C -98 106, -60 130, 0 130 C 60 130, 98 106, 98 66 C 98 20, 56 -18, 0 -18 Z"/>
+    </g>
+    <g transform="translate(860 582) scale(0.16) rotate(76)">
+      <ellipse cx="-93" cy="-44" rx="40" ry="50" transform="rotate(-24 -93 -44)"/>
+      <ellipse cx="-31" cy="-88" rx="42" ry="55" transform="rotate(-7 -31 -88)"/>
+      <ellipse cx="36" cy="-88" rx="42" ry="55" transform="rotate(7 36 -88)"/>
+      <ellipse cx="93" cy="-44" rx="40" ry="50" transform="rotate(24 93 -44)"/>
+      <path d="M0 -18 C -56 -18, -98 20, -98 66 C -98 106, -60 130, 0 130 C 60 130, 98 106, 98 66 C 98 20, 56 -18, 0 -18 Z"/>
+    </g>
+    <g transform="translate(1010 558) scale(0.16) rotate(100)">
+      <ellipse cx="-93" cy="-44" rx="40" ry="50" transform="rotate(-24 -93 -44)"/>
+      <ellipse cx="-31" cy="-88" rx="42" ry="55" transform="rotate(-7 -31 -88)"/>
+      <ellipse cx="36" cy="-88" rx="42" ry="55" transform="rotate(7 36 -88)"/>
+      <ellipse cx="93" cy="-44" rx="40" ry="50" transform="rotate(24 93 -44)"/>
+      <path d="M0 -18 C -56 -18, -98 20, -98 66 C -98 106, -60 130, 0 130 C 60 130, 98 106, 98 66 C 98 20, 56 -18, 0 -18 Z"/>
+    </g>
+    <g transform="translate(1160 578) scale(0.16) rotate(78)">
+      <ellipse cx="-93" cy="-44" rx="40" ry="50" transform="rotate(-24 -93 -44)"/>
+      <ellipse cx="-31" cy="-88" rx="42" ry="55" transform="rotate(-7 -31 -88)"/>
+      <ellipse cx="36" cy="-88" rx="42" ry="55" transform="rotate(7 36 -88)"/>
+      <ellipse cx="93" cy="-44" rx="40" ry="50" transform="rotate(24 93 -44)"/>
+      <path d="M0 -18 C -56 -18, -98 20, -98 66 C -98 106, -60 130, 0 130 C 60 130, 98 106, 98 66 C 98 20, 56 -18, 0 -18 Z"/>
+    </g>
+  </g>
+</svg>

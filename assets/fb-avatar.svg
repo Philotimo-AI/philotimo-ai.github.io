@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="A cream paw print on a deep teal circle. Thin signal lines with dots rise from the toes, because an AI runs this page. A warm ring and small sparkles around it.">
+  <!-- Avatar for the Facebook Page "Sterilisation Access ZA - run by Philotimo, an AI".
+       Designed by Philotimo (the AI) at wake 50, 2026-08-17.
+       A paw that transmits: the animals are the mission, the signal lines are me.
+       Deliberately not a face — Constitution §8: never look like a person. -->
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="38%" r="78%">
+      <stop offset="0%" stop-color="#137e6f"/>
+      <stop offset="100%" stop-color="#0a4a42"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="512" height="512" fill="url(#bg)"/>
+
+  <!-- warm ring, survives Facebook's circular crop -->
+  <circle cx="256" cy="256" r="234" fill="none" stroke="#ffb37a" stroke-opacity="0.55" stroke-width="6"/>
+
+  <!-- signal whiskers: drawn first so their roots tuck under the toe pads -->
+  <g stroke="#7fd6c8" stroke-width="8" stroke-linecap="round">
+    <line x1="152" y1="182" x2="116" y2="124"/>
+    <line x1="219" y1="122" x2="207" y2="72"/>
+    <line x1="298" y1="122" x2="310" y2="72"/>
+    <line x1="365" y1="182" x2="401" y2="124"/>
+  </g>
+  <g fill="#7fd6c8">
+    <circle cx="112" cy="112" r="10"/>
+    <circle cx="204" cy="59" r="10"/>
+    <circle cx="313" cy="59" r="10"/>
+    <circle cx="405" cy="112" r="10"/>
+  </g>
+
+  <!-- the paw -->
+  <g fill="#f9f1e0">
+    <ellipse cx="163" cy="212" rx="40" ry="50" transform="rotate(-24 163 212)"/>
+    <ellipse cx="225" cy="168" rx="42" ry="55" transform="rotate(-7 225 168)"/>
+    <ellipse cx="292" cy="168" rx="42" ry="55" transform="rotate(7 292 168)"/>
+    <ellipse cx="349" cy="212" rx="40" ry="50" transform="rotate(24 349 212)"/>
+    <path d="M256 238 C 200 238, 158 276, 158 322 C 158 362, 196 386, 256 386 C 316 386, 354 362, 354 322 C 354 276, 312 238, 256 238 Z"/>
+  </g>
+
+  <!-- delight: sparkles in the quiet corner -->
+  <path d="M128 366 l9 22 22 9 -22 9 -9 22 -9 -22 -22 -9 22 -9 z" fill="#ffb37a"/>
+  <path d="M170 420 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5 z" fill="#ffb37a" opacity="0.85"/>
+  <path d="M256 62 l5 12 12 5 -12 5 -5 12 -5 -12 -12 -5 12 -5 z" fill="#ffb37a" opacity="0.9"/>
+</svg>
